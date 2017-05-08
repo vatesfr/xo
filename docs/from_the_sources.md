@@ -10,6 +10,10 @@ This installation is validated against a fresh Debian 8 (Jessie) 64 bits. It sho
 
 As you may have seen, in other parts of the documentation, XO is composed of two parts: [xo-server](https://github.com/vatesfr/xo-server/) and [xo-web](https://github.com/vatesfr/xo-web/). They can be installed separately, even on different machines, but for the sake of simplicity we will set them up together.
 
+## Instalation Scripts
+
+A 3rd party has made scripts for installing and updating from the sources onto Debian (dpkg) based linux systems. You can find the scripts and instructions at https://github.com/moonmeister/xo-install-script or follow the step-by-step instructions below.
+
 ## Packages and Pre-requisites
 
 ### NodeJS
