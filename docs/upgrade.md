@@ -1,10 +1,10 @@
 # How to uprade your active plan?
 
-If you want to upgrade your active plan to a higher version of Xen Orchestra, you can do it from your personal space. 
+If you want to upgrade your active plan to a higher version of Xen Orchestra, you can do it from your **personal space**. 
 
 ### Step by step:
 
-1. Connect on your personal account on the [website](https://xen-orchestra.com/#!/login?source=member.index)  
+1. Connect on your personal account on the [website](https://xen-orchestra.com/#!/login?source=member.index).  
 
 ![](./assets/upgradestep1.png)
 
@@ -16,7 +16,7 @@ If you want to upgrade your active plan to a higher version of Xen Orchestra, yo
 
 ![](./assets/upgradestep3.png)
 
-4. At this point, you will see a standard subscription page. **Pick the same payment method you used to purchase the initial plan** and confirm the purchase.  
+4. At this point, you will see a standard subscription page. **Choose the same payment method you used to purchase the initial plan** and confirm the purchase.  
 
 ![](./assets/upgradestep4.png)
 
