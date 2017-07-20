@@ -63,5 +63,6 @@
    * [Trial](trial.md)
    * [Invoices](invoices.md)
    * [Upgrade](upgrade.md)
+* [Reseller](resellermenu.md)   
 * [General Troubleshooting](general-troubleshooting.md)   
 * [Glossary](glossary.md)
