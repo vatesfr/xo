@@ -4,7 +4,7 @@ You can join the Xen Orchestra Partner Program and start selling Xen Orchestra A
 Click the following link to have more documentation.
 
 * [Applying to XO partner program](resellerapplication.md)
-* [Selling Xen Orchestra]()
-* [Get a quote for you customer]()
-* [Upgrade a customer's plan]()
+* [Selling Xen Orchestra](resellersellingprocess.md)
+* [Get a quote for you customer](resellersellingprocess.md#getting-a-quote)
+* [Upgrade a customer's plan](resellersellingprocess.md#upgrade-a-plan-for-you-customer)
 * [Discover the Reseller Space]()
