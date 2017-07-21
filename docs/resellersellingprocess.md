@@ -26,10 +26,11 @@ On your personal space, you will have no discount.
 
 ![](./assets/resellerpurchaseprocess.png)
 
-2. You can still choose to pay montly or annualy. Once you have choose validate paiement. 
+2. You can still choose to pay montly or annualy. Once it's done, a new line appears on your reseller space.
 
-3. The last step is to bind the plan to your **final customer**. Still in your partner space, after the paiement validation,
-you can enter the email address of your end-user. 
+4. On this new line, you can upload your wire transfer proof.
+
+3. The last step is to bind the plan to your **final customer** using your customer email.
 
 ![](./assets/resellerbindingprocess.png)
 
@@ -39,3 +40,6 @@ If you want to upgrade a plan for one of your customer, you can do so by clickin
 
 > Note: The remaining time on the current plan will be used as a credit note when you upgrade.
 
+### From your client perspective
+
+Your client can use the email assigned to register its appliance, and unlock the Edition you purchased. He will not get any invoice from us but can still access to our support system. 
