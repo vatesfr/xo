@@ -1,7 +1,7 @@
 # Selling a Xen Orchestra edition
 
-Selling Xen Orchestra to one of your customer is very easy to do.
-
+ You will find in this section all the specification regarding the purchase of Xen Orchestra as a reseller. 
+ 
 ### Getting a quote
 
 If you need a quote from us, you can easily have one by getting into your reseller space. 
@@ -35,8 +35,7 @@ you can enter the email address of your end-user.
 
 ### Upgrade a plan for you customer
 
-IF you want to upgrade a plan for one of your customer, you can do so by clicking on the "upgrade" button on the line corresponding
-to your customer on the licence management part. 
+If you want to upgrade a plan for one of your customer, you can do so by clicking on the "upgrade" button on the line corresponding to your customer on the licence management part. 
 
 > Note: The remaining time on the current plan will be used as a credit note when you upgrade.
 
