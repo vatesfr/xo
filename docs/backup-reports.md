@@ -11,6 +11,6 @@ At the end of a backup Job, you can configure Xen Orchestra in order to receive 
 ![](./assets/transport-email-plugin.png)
 
 3. Once it's done, you can now create your backup job. On the line "report" you can choose the situation in wish you want to receive
-an email. 
+an email (always, never or failure). 
 ![](./assets/backup-report-config.png)
 > Note: You can also modify existing backup jobs and change the behaviour of the report system.
