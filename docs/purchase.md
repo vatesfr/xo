@@ -28,4 +28,4 @@ If you want to purchase XO using the quote you got, you just have to enter the q
 
 If you choose a Stripe payment, you can always edit the credit card information in case you need it. To do so, you only have to connect on your personal space and go on the *profile* menu. 
 
-![](.assets/updatecreditcard.png)
+![](./assets/updatecreditcard.png)
