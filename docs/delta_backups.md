@@ -46,3 +46,19 @@ Just go inside your "Backup" view, and select Delta Backup. Then, it's like a no
 During a delta backup job, you can avoid saving all disks of the VM. To do that, it's trivial: just edit the VM disk name and add `[NOBAK]` before the current name, eg: `data-disk` will become `[NOBAK] data-disk` (with a space or not after, doesn't matter).
 
 For every following backup, this disk will be now ignored.
+
+## Manual initial seed
+
+> This is only if you need to make the initial copy without making the whole transfer through your network. Otherwise, **you don't need that**. 
+
+### Preparation
+
+1. create a delta backup job to a remote which is local. Do NOT enable the job at the creation.
+2. start manually the first backup (only the first)
+3. when finished, take your remote physically in another place
+4. edit the remote connection settings
+
+### Enable
+Run manually a first time to check if everything is OK. Then enable the job. **Now, only the delta's are sent, your initial seed saved you a LOT of time.**
+
+
