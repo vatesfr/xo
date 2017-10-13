@@ -40,7 +40,7 @@ Then, you can define quotas on this set:
 
 When you click on create, you can see the resource set and remove or edit it:
 
-![](https://xen-orchestra.com/blog/content/images/2016/02/selfservice_recap_quotas.png)
+![](./assets//selfservice_recap_quotas.png)
 
 ## Usage (user side)
 
