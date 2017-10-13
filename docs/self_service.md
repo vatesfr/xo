@@ -40,13 +40,13 @@ Then, you can define quotas on this set:
 
 When you click on create, you can see the resource set and remove or edit it:
 
-![](./assets//selfservice_recap_quotas.png)
+![](./assets/selfservice_recap_quotas.png)
 
 ## Usage (user side)
 
 As soon a user is inside a resource set, it displays a new button in its main view: "new". 
 
-![](./assets/selfservice_newvm.png)
+![](./assets/selfservice_new_vm.png)
 
 Now, the user can create a VM with only the resources given in the set:
 
