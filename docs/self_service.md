@@ -44,7 +44,7 @@ When you click on create, you can see the resource set and remove or edit it:
 
 ## Usage (user side)
 
-As soon a user is inside a resource set, it displays a new button in its main view: the gree icon with the "plus" sign:
+As soon a user is inside a resource set, it displays a new button in its main view: "new". 
 
 ![](./assets/selfservice_newvm.png)
 
@@ -54,7 +54,7 @@ Now, the user can create a VM with only the resources given in the set:
 
 And the recap before creation:
 
-![](https://xen-orchestra.com/blog/content/images/2016/02/selfservice_summary_quotas.png)
+![](./assets/selfservice_summary_quotas.png)
 
 If the "Create" button is disabled, it means the user requested more resources than available.
 
