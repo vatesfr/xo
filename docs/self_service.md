@@ -50,7 +50,7 @@ As soon a user is inside a resource set, it displays a new button in its main vi
 
 Now, the user can create a VM with only the resources given in the set:
 
-![](./assets/selfservice_createvm.png)
+![](./assets/selfservice_create_vm.png)
 
 And the recap before creation:
 
