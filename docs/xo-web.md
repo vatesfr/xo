@@ -10,4 +10,4 @@ This is probably the first thing you'll see of Xen Orchestra. It's the Web inter
 
 We stay consistent from the back-end to the front-end with one main language: [ReactJS](https://reactjs.org/)
 
-![](.assets/react_js.png)
+![](./assets/react_js.png)
