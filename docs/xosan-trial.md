@@ -1,4 +1,4 @@
-XOSAN is a 100% software defined solution for XenServer hyperconvergence. If you are curious about it, you have to possibility to get a free 50GB cluster to play with a discover all the benefits you can get by using XOSAN in your infrastructure. 
+XOSAN is a 100% software defined solution for XenServer hyperconvergence. If you are curious about it, you have to possibility to get a free 50GiB cluster to play with a discover all the benefits you can get by using XOSAN in your infrastructure. 
 
 ## Step 1 
 
