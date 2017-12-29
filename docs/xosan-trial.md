@@ -1,4 +1,4 @@
-XOSAN is a 100% software defined solution for XenServer hyperconvergence. If you are curious about it, you have to possibility to get a free 50GiB cluster to play with a discover all the benefits you can get by using XOSAN in your infrastructure. 
+XOSAN is a 100% software defined solution for XenServer hyperconvergence. You can unlock a free 50GiB cluster to test the solution in your infrastructure and discover all the benefits you can get by using XOSAN. 
 
 ## Step 1 
 
@@ -11,13 +11,13 @@ SSH in your XenServer and use the command line `bash -c "$(curl -s http://xoa.io
 ## Step 2
 
 Register your XOA appliance
-> *If you are not familiar with Xen Orchestra, note that you can also activate a 15 days Premium trial for XOA.*
+> *If you are not familiar with Xen Orchestra, note that you can also activate a 15 days Premium trial for XOA. More informations [here](https://xen-orchestra.com/#!/trial)*
 
 ![Registration](https://xen-orchestra.com/docs/assets/xo5register.png)
 
 ## Step 3
 
-Access the XOSAN menu and click on the "new" button. By default, your XOSAN will be a trial license, limited to 50GB of space. 
+Access the XOSAN menu and click on the "new" button. By default, your XOSAN will be a trial license, limited to 50GiB of space. 
 
 ![activate-trial-xosan](./assets/xosan_trial.png)
 
