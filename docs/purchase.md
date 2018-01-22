@@ -20,7 +20,7 @@ You can ask for an automatic quote on our website on the pricing page or directe
 
 ![button-quotation](./assets/quotation.png)
 
-Choose the plan you want, the number of year of commitment that suits you and fill the informations required (prefilled with your account informations. 
+Choose the plan you want, If you choose to pay yearly, you will benefits from 1 free month, 2 for two years and 3 for three years. 
 
 If you want to purchase XO using the quote you got, you just have to enter the quote number on the purchase menu, on your personal space. 
 
