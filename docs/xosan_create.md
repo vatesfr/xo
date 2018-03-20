@@ -34,7 +34,7 @@ After the completion of all the requirements, you can install XOSAN itself.
 
 4. Select all the SR you want to use in your shared cluster.
 
-> Note: you can only select on SR on each host. If you select SR with different size, the size of the cluster will be limitated by the size of the smallest SR selected. We recommend you to use the same type of SR (SSD/HDD) and with the same size to avoid space loss.
+> Note: you can only select on SR on each host. If you select SR with different size, the size of the cluster will be limited by the size of the smallest SR selected. We recommend you to use the same type of SR (SSD/HDD) and with the same size to avoid space loss
 
 ![](./assets/xosan-sr.png)
 
@@ -53,14 +53,12 @@ With the advanced option, you can:
 
 * use a custom IP network
 
-* change the totale size you want for your sharded storage
+* change the total size you want for your shared storage
 
 * increase the memory allocated to XOSAN
 > 2GiB is the minimum to allocate to XOSAN. You will get better result with 4GiB and if you have a lot of memory available, 8GiB is the best.
 
 ![](./assets/xosan-advanced.png)
-
-## Creation
 
 Once you are ready, you can click on `Create`. XOSAN will automatically deploy itself and create the virtual shared storage you have selected.
 
