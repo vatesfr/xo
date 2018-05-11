@@ -1,4 +1,5 @@
 
+
 # From the sources
 
 **WARNING**: we don't provide support for this installation method. We cannot guarantee anything if it's used in production. Use it at your own risk.
@@ -7,7 +8,7 @@
 
 > Please take time to read this guide carefully.
 
-This installation has been validated against a fresh Debian 9 (Stretch) x64 install. It should be nearly the same on other dpkg systems. For RPM based OS's, it should be close, as most of our dependencies come from NPM and not the OS itself.
+This installation has been validated against a fresh Debian 8 (Jessie) x64 install. It should be nearly the same on other dpkg systems. For RPM based OS's, it should be close, as most of our dependencies come from NPM and not the OS itself.
 
 As you may have seen,in other parts of the documentation, XO is composed of two parts: [xo-server](https://github.com/vatesfr/xen-orchestra/tree/master/packages/xo-server/) and [xo-web](https://github.com/vatesfr/xen-orchestra/tree/master/packages/xo-web/). They can be installed separately, even on different machines, but for the sake of simplicity we will set them up together.
 
@@ -44,7 +45,7 @@ apt-get install build-essential redis-server libpng-dev git python-minimal
 
 ## Fetching the Code
 
-You need to use the `git` source code manager to fetch the code. Ideally you should run XO as a non-root user. As your chosen non-root user, run the following:
+You need to use the `git` source code manager to fetch the code. Ideally you should run XO as a non-root user, however if you don't run as root you will not be able to mount NFS remotes. As your chosen non-root (or root) user, run the following:
 
 ```
 git clone -b master http://github.com/vatesfr/xen-orchestra
@@ -54,7 +55,7 @@ git clone -b master http://github.com/vatesfr/xen-orchestra
 
 ## Installing dependencies
 
-Once you have it, use `yarn`, as the non-root user owning the fetched code, to install the other dependencies. Enter the `xen-orchestra` directory and run the following commands:
+Once you have it, use `yarn`, as the non-root (or root) user owning the fetched code, to install the other dependencies. Enter the `xen-orchestra` directory and run the following commands:
 
 ```
 $ yarn
